@@ -1,0 +1,32 @@
+# Build artifacts
+/build/
+/out/
+/cmake-build-*/
+
+# Compiled binaries
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# CMake / VS / IDE junk
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.user
+*.log
+.vs/
+.vscode/
+.idea/
+
+# OS-specific
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+src/main2.cpp
+src/main3.cpp
