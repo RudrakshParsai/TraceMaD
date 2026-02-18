@@ -2,6 +2,10 @@
 
 Small C++/SDL3 2D ray‑tracing / light‑casting demo.
 
+<p align="center">
+  <img src="assets/Tracemad.gif" width="500px" />
+</p>
+
 ### Run (Windows)
 - Keep `main.exe` and `SDL3.dll` in the project root.
 - Run from a terminal:
@@ -22,6 +26,3 @@ g++ -std=c++17 -Iinclude -Llib src/main.cpp -lSDL3 -o main.exe
 - **Close window**: exit
 
 
-<p align="center">
-  <img src="assets/Tracemad.gif" width="500px" />
-</p>
