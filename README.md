@@ -1,4 +1,4 @@
-## TraceMa2D
+## TraceMaD
 
 Small C++/SDL3 2D ray‑tracing / light‑casting demo.
 
